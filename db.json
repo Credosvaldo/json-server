@@ -3,5 +3,38 @@
         "name": "John Doe",
         "age": 30,
         "email": "john@gmail.com"
-    }
+    },
+    "coins": 10,
+    "products": [
+        {
+            "id": "1",
+            "name": "Boné",
+            "image": "bone.webp"
+        },
+        {
+            "id": "2",
+            "name": "Caderno",
+            "image": "caderno.webp"
+        },
+        {
+            "id": "3",
+            "name": "Camisa",
+            "image": "camisa.webp"
+        },
+        {
+            "id": "4",
+            "name": "Celular",
+            "image": "celular.png"
+        },
+        {
+            "id": "5",
+            "name": "Garrafa",
+            "image": "garrafa.webp"
+        },
+        {
+            "id": "6",
+            "name": "Mackbook",
+            "image": "macbook.webp"
+        }
+    ]
 }
