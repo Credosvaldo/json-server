@@ -9,17 +9,17 @@
         {
             "id": "1",
             "name": "Boné",
-            "image": "bone.webp"
+            "image": "bone.png"
         },
         {
             "id": "2",
             "name": "Caderno",
-            "image": "caderno.webp"
+            "image": "caderno.png"
         },
         {
             "id": "3",
             "name": "Camisa",
-            "image": "camisa.webp"
+            "image": "camisa.png"
         },
         {
             "id": "4",
@@ -29,12 +29,12 @@
         {
             "id": "5",
             "name": "Garrafa",
-            "image": "garrafa.webp"
+            "image": "garrafa.png"
         },
         {
             "id": "6",
             "name": "Mackbook",
-            "image": "macbook.webp"
+            "image": "macbook.png"
         }
     ]
 }
