@@ -1,40 +1,43 @@
 {
-    "user": {
-        "name": "John Doe",
-        "age": 30,
-        "email": "john@gmail.com"
+  "user": {
+    "coins": 300
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Boné",
+      "image": "bone.png",
+      "preco": 200.5
     },
-    "coins": 10,
-    "products": [
-        {
-            "id": "1",
-            "name": "Boné",
-            "image": "bone.png"
-        },
-        {
-            "id": "2",
-            "name": "Caderno",
-            "image": "caderno.png"
-        },
-        {
-            "id": "3",
-            "name": "Camisa",
-            "image": "camisa.png"
-        },
-        {
-            "id": "4",
-            "name": "Celular",
-            "image": "celular.png"
-        },
-        {
-            "id": "5",
-            "name": "Garrafa",
-            "image": "garrafa.png"
-        },
-        {
-            "id": "6",
-            "name": "Mackbook",
-            "image": "macbook.png"
-        }
-    ]
+    {
+      "id": "2",
+      "name": "Caderno",
+      "image": "caderno.png",
+      "preco": 20
+    },
+    {
+      "id": "3",
+      "name": "Camisa",
+      "image": "camisa.png",
+      "preco": 37.99
+    },
+    {
+      "id": "4",
+      "name": "Celular",
+      "image": "celular.png",
+      "preco": 1800
+    },
+    {
+      "id": "5",
+      "name": "Garrafa",
+      "image": "garrafa.png",
+      "preco": 10.27
+    },
+    {
+      "id": "6",
+      "name": "Mackbook",
+      "image": "macbook.png",
+      "preco": 5000
+    }
+  ]
 }
