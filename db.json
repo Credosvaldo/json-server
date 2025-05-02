@@ -1,43 +1,45 @@
 {
   "user": {
-    "coins": 300
+    "coins": 6000
   },
-  "products": [
-    {
-      "id": "1",
-      "name": "Boné",
-      "image": "bone.png",
-      "preco": 200.5
-    },
-    {
-      "id": "2",
-      "name": "Caderno",
-      "image": "caderno.png",
-      "preco": 20
-    },
-    {
-      "id": "3",
-      "name": "Camisa",
-      "image": "camisa.png",
-      "preco": 37.99
-    },
-    {
-      "id": "4",
-      "name": "Celular",
-      "image": "celular.png",
-      "preco": 1800
-    },
-    {
-      "id": "5",
-      "name": "Garrafa",
-      "image": "garrafa.png",
-      "preco": 10.27
-    },
-    {
-      "id": "6",
-      "name": "Mackbook",
-      "image": "macbook.png",
-      "preco": 5000
-    }
-  ]
+  "a": {
+    "products": [
+      {
+        "id": "1",
+        "name": "Boné",
+        "image": "bone.png",
+        "price": 200
+      },
+      {
+        "id": "2",
+        "name": "Caderno",
+        "image": "caderno.png",
+        "price": 20
+      },
+      {
+        "id": "3",
+        "name": "Camisa",
+        "image": "camisa.png",
+        "price": 37
+      },
+      {
+        "id": "4",
+        "name": "Celular",
+        "image": "celular.png",
+        "price": 1800
+      },
+      {
+        "id": "5",
+        "name": "Garrafa",
+        "image": "garrafa.png",
+        "price": 10
+      },
+      {
+        "id": "6",
+        "name": "Mackbook",
+        "image": "macbook.png",
+        "price": 5000
+      }
+    ]
+  }
 }
